@@ -1,0 +1,111 @@
+2024-12-28 18:57:09 [main] INFO : ****Starting TC_01_AccountRegistrationTest******
+2024-12-28 18:57:09 [main] INFO : Clicked on my account
+2024-12-28 18:57:11 [main] INFO : Clicked on Register
+2024-12-28 18:57:11 [main] INFO : Entering customer details on Register page
+2024-12-28 18:57:13 [main] INFO : Verifying message
+2024-12-28 19:03:25 [main] INFO : ****Starting TC_01_AccountRegistrationTest******
+2024-12-28 19:03:26 [main] INFO : Clicked on my account
+2024-12-28 19:03:26 [main] INFO : Clicked on Register
+2024-12-28 19:03:26 [main] INFO : Entering customer details on Register page
+2024-12-28 19:03:28 [main] INFO : Verifying message
+2024-12-30 11:20:27 [main] INFO : ****Starting TC_01_AccountRegistrationTest******
+2024-12-30 11:20:27 [main] INFO : Clicked on my account
+2024-12-30 11:20:28 [main] INFO : Clicked on Register
+2024-12-30 11:20:28 [main] INFO : Entering customer details on Register page
+2024-12-30 11:20:30 [main] INFO : Verifying message
+2024-12-30 15:29:44 [main] INFO : ----Starting TC_002 LoginTest---
+2024-12-30 15:31:04 [main] INFO : ----Starting TC_002 LoginTest---
+2024-12-30 16:01:03 [main] INFO : ----Starting TC_002 LoginTest---
+2024-12-30 18:21:33 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-30 18:21:33 [main] DEBUG: Parsing relationship: /_rels/.rels
+2024-12-30 18:23:10 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-30 18:23:10 [main] DEBUG: Parsing relationship: /_rels/.rels
+2024-12-30 18:24:19 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-30 18:24:19 [main] DEBUG: Parsing relationship: /_rels/.rels
+2024-12-30 18:31:29 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-30 18:31:29 [main] DEBUG: Parsing relationship: /_rels/.rels
+2024-12-30 18:38:06 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-30 18:38:06 [main] DEBUG: Parsing relationship: /_rels/.rels
+2024-12-30 18:45:12 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-30 18:45:12 [main] DEBUG: Parsing relationship: /_rels/.rels
+2024-12-30 18:47:10 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-30 18:47:10 [main] DEBUG: Parsing relationship: /_rels/.rels
+2024-12-30 18:50:15 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-30 18:50:15 [main] DEBUG: Parsing relationship: /_rels/.rels
+2024-12-30 18:58:33 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-30 18:58:33 [main] DEBUG: Parsing relationship: /_rels/.rels
+2024-12-30 19:08:48 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-30 19:08:48 [main] DEBUG: Parsing relationship: /_rels/.rels
+2024-12-30 19:08:49 [main] INFO : ----Starting TC_003 LoginTest_DDT---
+2024-12-30 19:08:50 [main] INFO : ---Completed TC_003_Login_DDT----
+2024-12-30 19:08:50 [main] INFO : ----Starting TC_003 LoginTest_DDT---
+2024-12-30 19:08:50 [main] INFO : ---Completed TC_003_Login_DDT----
+2024-12-30 19:08:50 [main] INFO : ----Starting TC_003 LoginTest_DDT---
+2024-12-30 19:08:51 [main] INFO : ---Completed TC_003_Login_DDT----
+2024-12-30 19:08:51 [main] INFO : ----Starting TC_003 LoginTest_DDT---
+2024-12-30 19:08:52 [main] INFO : ---Completed TC_003_Login_DDT----
+2024-12-30 19:08:52 [main] INFO : ----Starting TC_003 LoginTest_DDT---
+2024-12-30 19:08:52 [main] INFO : ---Completed TC_003_Login_DDT----
+2024-12-30 19:14:06 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-30 19:14:06 [main] DEBUG: Parsing relationship: /_rels/.rels
+2024-12-30 19:14:07 [main] INFO : ----Starting TC_003 LoginTest_DDT---
+2024-12-30 19:14:19 [main] INFO : ---Completed TC_003_Login_DDT----
+2024-12-30 19:14:19 [main] INFO : ----Starting TC_003 LoginTest_DDT---
+2024-12-30 19:14:29 [main] INFO : ---Completed TC_003_Login_DDT----
+2024-12-30 19:14:29 [main] INFO : ----Starting TC_003 LoginTest_DDT---
+2024-12-30 19:14:40 [main] INFO : ---Completed TC_003_Login_DDT----
+2024-12-30 19:14:40 [main] INFO : ----Starting TC_003 LoginTest_DDT---
+2024-12-30 19:14:50 [main] INFO : ---Completed TC_003_Login_DDT----
+2024-12-30 19:14:50 [main] INFO : ----Starting TC_003 LoginTest_DDT---
+2024-12-30 19:15:00 [main] INFO : ---Completed TC_003_Login_DDT----
+2024-12-30 19:28:44 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-30 19:28:44 [main] DEBUG: Parsing relationship: /_rels/.rels
+2024-12-30 19:28:45 [main] INFO : ----Starting TC_003 LoginTest_DDT---
+2024-12-30 19:28:57 [main] INFO : ---Completed TC_003_Login_DDT----
+2024-12-30 19:28:57 [main] INFO : ----Starting TC_003 LoginTest_DDT---
+2024-12-30 19:29:08 [main] INFO : ---Completed TC_003_Login_DDT----
+2024-12-30 19:29:08 [main] INFO : ----Starting TC_003 LoginTest_DDT---
+2024-12-30 19:29:18 [main] INFO : ---Completed TC_003_Login_DDT----
+2024-12-30 19:29:18 [main] INFO : ----Starting TC_003 LoginTest_DDT---
+2024-12-30 19:29:28 [main] INFO : ---Completed TC_003_Login_DDT----
+2024-12-30 19:29:28 [main] INFO : ----Starting TC_003 LoginTest_DDT---
+2024-12-30 19:29:38 [main] INFO : ---Completed TC_003_Login_DDT----
+2024-12-30 19:36:39 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-30 19:36:39 [main] DEBUG: Parsing relationship: /_rels/.rels
+2024-12-30 19:36:40 [main] INFO : ----Starting TC_003 LoginTest_DDT---
+2024-12-30 19:36:52 [main] INFO : ---Completed TC_003_Login_DDT----
+2024-12-30 19:36:52 [main] INFO : ----Starting TC_003 LoginTest_DDT---
+2024-12-30 19:38:22 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-30 19:38:22 [main] DEBUG: Parsing relationship: /_rels/.rels
+2024-12-30 19:38:23 [main] INFO : ----Starting TC_003 LoginTest_DDT---
+2024-12-30 19:38:35 [main] INFO : ---Completed TC_003_Login_DDT----
+2024-12-30 19:38:35 [main] INFO : ----Starting TC_003 LoginTest_DDT---
+2024-12-30 19:38:45 [main] INFO : ---Completed TC_003_Login_DDT----
+2024-12-30 19:38:45 [main] INFO : ----Starting TC_003 LoginTest_DDT---
+2024-12-30 19:38:55 [main] INFO : ---Completed TC_003_Login_DDT----
+2024-12-30 19:38:55 [main] INFO : ----Starting TC_003 LoginTest_DDT---
+2024-12-30 19:39:06 [main] INFO : ---Completed TC_003_Login_DDT----
+2024-12-30 19:39:06 [main] INFO : ----Starting TC_003 LoginTest_DDT---
+2024-12-30 19:39:16 [main] INFO : ---Completed TC_003_Login_DDT----
+2024-12-31 11:15:34 [main] INFO : ----Starting TC_002 LoginTest---
+2025-01-02 13:41:15 [main] INFO : ****Starting TC_01_AccountRegistrationTest******
+2025-01-02 13:41:16 [main] INFO : Clicked on my account
+2025-01-02 13:41:16 [main] INFO : Clicked on Register
+2025-01-02 13:41:16 [main] INFO : Entering customer details on Register page
+2025-01-02 13:41:18 [main] INFO : Verifying message
+2025-01-02 13:41:24 [main] INFO : ----Starting TC_002 LoginTest---
+2025-01-02 13:41:29 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-02 13:41:29 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-01-02 13:41:30 [main] INFO : ----Starting TC_003 LoginTest_DDT---
+2025-01-02 13:41:42 [main] INFO : ---Completed TC_003_Login_DDT----
+2025-01-02 13:41:42 [main] INFO : ----Starting TC_003 LoginTest_DDT---
+2025-01-02 13:41:52 [main] INFO : ---Completed TC_003_Login_DDT----
+2025-01-02 13:41:53 [main] INFO : ----Starting TC_003 LoginTest_DDT---
+2025-01-02 13:42:03 [main] INFO : ---Completed TC_003_Login_DDT----
+2025-01-02 13:42:03 [main] INFO : ----Starting TC_003 LoginTest_DDT---
+2025-01-02 13:42:13 [main] INFO : ---Completed TC_003_Login_DDT----
+2025-01-02 13:42:14 [main] INFO : ----Starting TC_003 LoginTest_DDT---
+2025-01-02 13:42:24 [main] INFO : ---Completed TC_003_Login_DDT----
+2025-01-02 13:49:56 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-02 13:49:56 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-01-02 13:49:57 [main] INFO : ----Starting TC_003 LoginTest_DDT---
